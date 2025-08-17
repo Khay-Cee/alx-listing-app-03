@@ -1,4 +1,4 @@
-# alx-listing-app-03
+# alx-listing-app-02
 I implemented a responsive Booking Detail Page in Next.js with TypeScript and Tailwind CSS.
 The page includes:
 - A reusable, accessible BookingForm with contact, payment, and billing fields.
